@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Ashley 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+Data+Science+Student;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+R+%7C+Power+BI;Open+to+Work+%F0%9F%9A%80&center=true&width=600&height=45&color=FF6B35&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+Data+Science+Student;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+R+%7C+Power+BI;Open+to+Work+%F0%9F%9A%80&center=true&width=600&height=45&color=2E5EAA&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/public-profile/settings/"><img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-F7931E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=IpfiAshley&style=for-the-badge&color=FFC93C" alt="profile views" />
+  <a href="https://www.linkedin.com/public-profile/settings/"><img src="https://img.shields.io/badge/LinkedIn-2E5EAA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-64748B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=IpfiAshley&style=for-the-badge&color=4A6FA5" alt="profile views" />
 </p>
 
 ---
@@ -26,22 +26,98 @@ I'm a curious, adaptable, and collaborative learner seeking opportunities to app
 <summary><b>🧭 Quick nav</b> (click to expand)</summary>
 <br>
 
-- [🛠️ Tech Stack](#️-tech-stack)
+- [🛠️ Skills](#️-skills)
+- [📚 Currently Learning](#-currently-learning)
+- [🎯 Career Focus](#-career-focus)
 - [📈 GitHub Stats](#-github-stats)
 - [📌 Featured Projects](#-featured-projects)
-- [📫 Contact](#-lets-connect)
+- [📫 Let's Connect](#-lets-connect)
 
 </details>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-FF6B35?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-F7931E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-FFC93C?style=for-the-badge&logo=r&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power%20BI-FFB347?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-FF8C42?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-FF7A33?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img
+| Area | Tools |
+|---|---|
+| Data Analytics | Python • R • SQL • Excel |
+|  Business Intelligence | Power BI • DAX • Tableau |
+|  Data Science | Machine Learning • Statistics |
+|  Databases | SQL • Oracle SQL |
+|  Visualization | Power BI • Tableau • R |
+|  Development | Git • GitHub • Microsoft Power Platform |
+
+---
+
+###  Currently Learning
+
+- Machine Learning
+- Cloud Technologies
+- Data Engineering
+- Advanced Analytics
+- Artificial Intelligence
+
+---
+
+### 🎯 Career Focus
+
+I'm currently interested in:
+
+**Data Analyst Internships • Data Science Internships • Business Intelligence • Graduate Programmes**
+
+I'm looking for opportunities where I can:
+
+- Apply my technical skills to real-world problems
+- Work with meaningful data
+- Learn from experienced professionals
+- Develop industry experience
+- Contribute to data-driven decisions
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IpfiAshley&show_icons=true&hide_border=true&bg_color=00000000&title_color=2E5EAA&icon_color=64748B&text_color=333333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IpfiAshley&layout=compact&hide_border=true&bg_color=00000000&title_color=2E5EAA&text_color=333333" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IpfiAshley&hide_border=true&background=00000000&ring=2E5EAA&fire=64748B&currStreakLabel=2E5EAA" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IpfiAshley&hide_border=true&bg_color=ffffff&color=2E5EAA&line=64748B&point=1B263B" width="100%" />
+</p>
+
+
+---
+
+### 📌 Featured Projects
+
+<details open>
+<summary><b>Click any project to expand details</b></summary>
+<br>
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Web-Programming-371**](https://github.com/IpfiAshley/Web-Programming-371) | Collaborative Dynamic Community Portal Website (group project) | Node.js, Express, EJS, CSS |
+| [**Student-Management-System**](https://github.com/IpfiAshley/Student-Management-System) | System for managing student records | — |
+| [**ipfiweb**](https://github.com/IpfiAshley/ipfiweb) | Personal web project | JavaScript |
+| [**Cypto**](https://github.com/IpfiAshley/Cypto) | Web project | HTML |
+| [**Web-programming**](https://github.com/IpfiAshley/Web-programming) | Web programming coursework | CSS |
+| [**ipfi**](https://github.com/IpfiAshley/ipfi) | Personal project | HTML |
+
+</details>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/public-profile/settings/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-2E5EAA?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/-Say%20Hello-64748B?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Learning. Growing. Building.</i></p>
