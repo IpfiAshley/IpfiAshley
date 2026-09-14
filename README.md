@@ -76,22 +76,6 @@ I'm looking for opportunities where I can:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IpfiAshley&show_icons=true&hide_border=true&bg_color=00000000&title_color=2E5EAA&icon_color=64748B&text_color=333333" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IpfiAshley&layout=compact&hide_border=true&bg_color=00000000&title_color=2E5EAA&text_color=333333" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IpfiAshley&hide_border=true&background=00000000&ring=2E5EAA&fire=64748B&currStreakLabel=2E5EAA" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IpfiAshley&hide_border=true&bg_color=ffffff&color=2E5EAA&line=64748B&point=1B263B" width="100%" />
-</p>
-
-
 ---
 
 ### 📌 Featured Projects
@@ -113,11 +97,6 @@ I'm looking for opportunities where I can:
 
 ---
 
-### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/public-profile/settings/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-2E5EAA?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/-Say%20Hello-64748B?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
 
 <p align="center"><i>Learning. Growing. Building.</i></p>
