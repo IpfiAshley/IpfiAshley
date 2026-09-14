@@ -7,12 +7,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/public-profile/settings/"><img src="https://img.shields.io/badge/LinkedIn-2E5EAA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-64748B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=IpfiAshley&style=for-the-badge&color=4A6FA5" alt="profile views" />
+  
 </p>
 
 ---
 
-### 🌸 About Me
+###  About Me
 
 I'm a final-year **Data Science (Business Intelligence)** student at **Belgium Campus ITversity**, passionate about data analytics, business intelligence, and data visualization. I enjoy transforming data into meaningful insights that support informed decision-making.
 
